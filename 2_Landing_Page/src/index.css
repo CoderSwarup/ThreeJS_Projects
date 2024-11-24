@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: #171717;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  background: #000;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: rgb(250, 255, 160);
+}
