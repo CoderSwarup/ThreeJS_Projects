@@ -1,10 +1,7 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# Three JS Website
 
-```
-yarn
-yarn dev
-```
+[Link](https://threejs-graces-clone.netlify.app/)
 
+<video controls src="public/video.mp4" title="Title"></video>
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+[Offcial Website](https://threejs-graces.tiiny.site/)
